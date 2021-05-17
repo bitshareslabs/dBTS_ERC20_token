@@ -9,7 +9,7 @@ Deployed by: Long Jie (BitShares JS Developer)
 
 Since people started going crazy with 'wrapped' BTC who does have price of its own and has nothing even close to what we consider PEG around BitShares, or line of 'synths' by new modern tech startups... We invented MPA's with oracles more than half decade ago, so it's time to show their markets what is the real meaning of PEG to an Asset and how Bitshares does it.
 
-We need it to enter, demostrate power and dominate their markets while presenting their technology as obsolete.
+We need it to enter, demonstrate power and dominate their markets while presenting their technology as obsolete.
 
 TX cost per swap within Bitshares blockchain: ~ $0.10 (Basic account) TimeToComplete: 3 seconds fixed
 TX cost per swap within Ethereum blockchain: ~ $18-$198 (Uniswap, Metamask) TimeToComplete: ~ 3 minutes
